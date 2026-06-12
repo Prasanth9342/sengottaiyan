@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 place : Madurai
 =======
 place : Chennai is the capital of Tamilnadu
 >>>>>>> Techpanda
+=======
+place : Chennai is the capital of Tamilnadu
+place : Madurai
+>>>>>>> 59886393b9c4c77a00d6a74372739b4938d78de6
